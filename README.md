@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+
 
 ###
 
@@ -48,6 +48,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nazemmoujdeen/Nazemmoujdeen/output/snake.svg" alt="Snake animation" />
 
 ###
