@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Muhayminul (Nazem) Moujdeen. Im aspiring software engineer from Swindon,England.</h2>
+<h2 align="center">Hi 👋! My name is Muhayminul (Nazem) Moujdeen. Im an aspiring software engineer from Swindon,England.</h2>
 
 ###
 
@@ -50,3 +50,13 @@
 
 
 ###
+I'm a passionate full-stack developer with a love for building interactive and useful web applications. I enjoy working with the entire stack, from designing a robust backend API to creating a dynamic user interface.
+
+Right now, I'm diving deep into the world of enterprise-grade applications with Java and Spring Boot, and building modern, responsive frontends with React.
+
+🚀 What I'm Currently Working On
+🌱 I’m building a Full-Stack Pokédex Application using Spring Boot for the REST API and React for the UI.
+
+👯 I’m looking to collaborate on interesting open-source projects, especially those involving Java or JavaScript.
+
+🤔 I’m seeking to deepen my knowledge of advanced React concepts like state management and client-side routing.
