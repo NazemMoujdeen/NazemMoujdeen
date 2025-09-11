@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Muhayminul (Nazem) Moujdeen. Im an aspiring software engineer from Swindon,England.</h2>
 
-I'm a passionate full-stack developer in my final year of Computer Science at the university of Kent, with a love for building interactive and useful web applications. I enjoy creating and designing designing robust backend API and creating a dynamic user interface.
+I'm a passionate full-stack developer in my final year of Computer Science at the University of Kent, with a love for building interactive and useful web applications. I enjoy creating and designing designing robust backend API and creating a dynamic user interface.
 
 Right now, I'm exploring and understanding how to make applications with Java and Spring Boot, and building modern, responsive frontends with React.
 
