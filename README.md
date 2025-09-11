@@ -5,7 +5,7 @@ I'm a passionate full-stack developer in my final year of Computer Science at th
 Right now, I'm exploring and understanding how to make applications with Java and Spring Boot, and building modern, responsive frontends with React.
 
 🚀 What I'm Currently Working On
-   - I’m building a Full-Stack Pokédex Application using Spring Boot for the REST API and React for the UI.
+   - I’m building a Full-Stack Pokédex Application using Spring Boot for the REST API using PostgreSQL for the database and React for the UI.
    - I’m looking to collaborate on interesting open-source projects, especially those involving Java or JavaScript.
    - I’m seeking to deepen my knowledge of advanced React concepts like state management and client-side routing.
 ###
